@@ -1,0 +1,19 @@
+{
+  "name": "com.yamagames.serializablecollections",
+  "version": "1.0.0",
+  "displayName": "SerializableCollections",
+  "description": "Serializable Collections for Unity",
+  "unity": "2020.1",
+  "dependencies": {
+ },
+ "keywords": [
+    "collections",
+    "serializable",
+    "unity"
+  ],
+  "author": {
+    "name": "Yama Games",
+    "github": "https://github.com/AlmostInteractive/"
+  }
+}
+

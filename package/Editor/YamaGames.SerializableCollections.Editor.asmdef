@@ -1,0 +1,18 @@
+{
+    "name": "YamaGames.SerializableCollections.Editor",
+    "rootNamespace": "YamaGames.SerializableCollections.Editor",
+    "references": [
+        "YamaGames.SerializableCollections"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
