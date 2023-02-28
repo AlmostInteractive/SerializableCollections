@@ -1,6 +1,6 @@
 {
   "name": "com.yamagames.serializablecollections",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "SerializableCollections",
   "description": "Serializable Collections for Unity",
   "unity": "2020.1",
